@@ -1,0 +1,8 @@
+.terraform
+.terraform.tfvars
+.DS_Store
+*.log
+.tls.crt
+.tls.key
+.api.edugenies.com.pfx
+node_modules
